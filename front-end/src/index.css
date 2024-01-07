@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Merriweather&family=Montserrat:wght@900&family=Sacramento&family=Ubuntu&family=Varela+Round&display=swap");
+
+.my_font {
+  font-family: "Varela Round", sans-serif;
+}
